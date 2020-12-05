@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+.bg-vert-clair{
+    background-color: rgb(223, 239, 223);
+}
+
+.bg-navbar{
+    background-color: rgba(0, 128, 0, 1);
+}
+
+.bg-header{
+    background-image: url("../images/bg-header.png");
+    background-size: cover;
+}

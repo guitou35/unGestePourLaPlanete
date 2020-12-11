@@ -14,3 +14,7 @@ body{
     background-image: url("../images/bg-header.png");
     background-size: cover;
 }
+
+.bg-footer{
+    background-color: rgb(4, 61, 4);
+}
